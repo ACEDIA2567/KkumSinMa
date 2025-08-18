@@ -15,7 +15,7 @@
 
 ### ⚡ 링크
 **● PC(itch.io) : https://nogchamalu.itch.io/dreamingnewdemonking**  
-**● 모바일 : https://drive.google.com/drive/folders/1dKkSqAxZ5kRj_f7q_VLr_TkDCsO9O8BD** 
+**● 모바일 : https://drive.google.com/drive/folders/1dKkSqAxZ5kRj_f7q_VLr_TkDCsO9O8BD**     
 **● 시연 영상 : [이동](https://www.youtube.com/watch?v=Tt7ry0q9bmE)**    
 **● 소스 코드 : [이동](https://github.com/ACEDIA2567/KkumSinMa_SourceCode)**    
 
