@@ -13,9 +13,11 @@
 진정한 마왕이 되기 위해 떠나는 모험! <br> 다시 태어난 당신, 용사에게 복수하기 위해 강해져야 합니다. 마을을 침략하며 영혼을 모아 장비를 맞추세요.  
 </div>
 
-### ⚡ 빌드 파일
+### ⚡ 링크
 **● PC(itch.io) : https://nogchamalu.itch.io/dreamingnewdemonking**  
-**● 모바일 : https://drive.google.com/drive/folders/1dKkSqAxZ5kRj_f7q_VLr_TkDCsO9O8BD**
+**● 모바일 : https://drive.google.com/drive/folders/1dKkSqAxZ5kRj_f7q_VLr_TkDCsO9O8BD** 
+**● 시연 영상 : [이동](https://youtu.be/gILanqaPCUg)**    
+**● 소스 코드 : [이동](https://github.com/ACEDIA2567/KkumSinMa_SourceCode)**    
 
 ### ⚙️ 개발 환경
 - 언어 : `C#`
